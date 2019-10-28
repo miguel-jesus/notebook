@@ -1,0 +1,6 @@
+C:\Users\mcolo\source\repos\task list\task list\bin\Debug\task list.exe.config
+C:\Users\mcolo\source\repos\task list\task list\bin\Debug\task list.exe
+C:\Users\mcolo\source\repos\task list\task list\bin\Debug\task list.pdb
+C:\Users\mcolo\source\repos\task list\task list\obj\Debug\task list.csprojAssemblyReference.cache
+C:\Users\mcolo\source\repos\task list\task list\obj\Debug\task list.exe
+C:\Users\mcolo\source\repos\task list\task list\obj\Debug\task list.pdb
